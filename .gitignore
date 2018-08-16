@@ -1,0 +1,10 @@
+/appeal.json
+/build/
+.classpath
+.gradle/
+.settings/
+.project
+bin/
+tmp/
+
+
